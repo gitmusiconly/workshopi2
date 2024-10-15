@@ -43,3 +43,11 @@
 -Cliquez sur “Définir Limite” 
 
 -Pour signaler un contenu inapproprié, cliquez sur “Signaler contenu inapproprié” 
+
+-Lorsque le temps limite est atteint :  
+
+![alt text](https://github.com/gitmusiconly/workshopi2/blob/main/vueExtension3.png?raw=true)
+
+ 
+
+-Pour supprimer la limite, entrez le code parental et cliquez sur “Désactiver le Blocage”. Vous pouvez aussi désactiver à tout moment le blocage dans l’extension directement en entrant le code parental et en cliquant sur “Désactiver”. 

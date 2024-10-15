@@ -19,7 +19,7 @@
 
 
 
-![screenshot]SIF_SecurityInFamily/vueExtension1.png
+
 
 
 

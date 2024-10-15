@@ -23,7 +23,7 @@
 
 -Selectionnez le fihcier /SIF_SecurityInFamily/manifest.json 
 
-![alt text](https://github.com/gitmusiconly/workshopi2/blob/main/SIF_SecurityInFamily/vueExtension1.png?raw=true)
+![alt text](https://github.com/gitmusiconly/workshopi2/blob/main/vueExtension1.png?raw=true)
 
 
 
@@ -33,7 +33,7 @@
 
 -Retrouvez l’extension dans votre navigateur en haut à droite :  
 
-![alt text](https://github.com/gitmusiconly/workshopi2/blob/main/SIF_SecurityInFamily/vueExtension2.png?raw=true)
+![alt text](https://github.com/gitmusiconly/workshopi2/blob/main/vueExtension2.png?raw=true)
 
 
 -Definissez un temps en minutes 

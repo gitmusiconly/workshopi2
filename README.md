@@ -21,7 +21,7 @@
 
 -Cliquez sur “Charger un module supplémentaire temporaire” 
 
--Selectionnez le fihcier /SIF_SecurityInFamily/manifest.json 
+-Selectionnez le fichier /SIF_SecurityInFamily/manifest.json 
 
 ![alt text](https://github.com/gitmusiconly/workshopi2/blob/main/vueExtension1.png?raw=true)
 

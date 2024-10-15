@@ -14,9 +14,12 @@
 -Avec votre navigateur Firefox, allez sur about:debugging#/runtime/this-firefox 
 
 -Cliquez sur “Charger un module supplémentaire temporaire” 
+
 ![alt text](https://github.com/gitmusiconly/workshopi2/blob/main/SIF_SecurityInFamily/vueExtension1.png?raw=true)
 
 
+
+![screenshot]SIF_SecurityInFamily/vueExtension1.png
 
 
 

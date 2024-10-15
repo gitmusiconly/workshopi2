@@ -4,11 +4,17 @@
 -Téléchargez le fichier SIF_SecurityInFamily et son contenu :  
 
 /SIF_SecurityInFamily/content_script.js 
+
 /SIF_SecurityInFamily/icon.png 
+
 /SIF_SecurityInFamily/manifest.json 
+
 /SIF_SecurityInFamily/popup.html 
+
 /SIF_SecurityInFamily/popup.js 
+
 /SIF_SecurityInFamily/popup.js.old.txt 
+
 /SIF_SecurityInFamily/style.css 
 
 -Avec votre navigateur Firefox, allez sur about:debugging#/runtime/this-firefox 
